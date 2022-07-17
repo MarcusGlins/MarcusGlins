@@ -1,7 +1,7 @@
 ### Olá! Eu sou Marcus Glins
 
 - 🔭 Atualmente sou professor de Física
-- 🌱 Estudanto: Java, HTML5, CSS3 e JavaScript
+- 🌱 Estudando: Java, HTML5, CSS3 e JavaScript
 
 <div>
   <a href="https://github.com/MarcusGlins">
