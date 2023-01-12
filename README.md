@@ -1,27 +1,9 @@
 ### Olá! Eu sou Marcus Glins
 
+- 🔭 Analista e Desenvolvedor de Sistemas
 - 🔭 Atualmente sou professor de Física
-- 🌱 Estudando: Java, HTML5, CSS3 e JavaScript
+- 🌱 Aprimorando conhecimentos em: Java, HTML5, CSS3 e JavaScript
 
-<div>
-  <a href="https://github.com/MarcusGlins">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarcusGlins&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGlins&layout=compact&langs_count=5&theme=dark">
-</div>
-
-<div style="display: inline-block"> <br>
-  <img align="center" alt="Marcus-Java" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Marcus-HTML" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />           <img align="center" alt="Marcus-CSS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Marcus-JS" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Marcus-MD" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  <img align="center" alt="Marcus-LATEX" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-  <img align="center" alt="Marcus-GIT" height="38" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img align="center" alt="Marcus-LINUX" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Marcus-UBUNTU" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="Marcus-VIM" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img align="center" alt="Marcus-BASH" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Marcus-FIREFOX" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
-</div>
 
 ##
 
