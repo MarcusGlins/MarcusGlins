@@ -1,7 +1,6 @@
 ### Olá! Eu sou Marcus Glins
 
 - 🔭 Analista e Desenvolvedor de Sistemas
-- 🔭 Atualmente sou professor de Física
 - 🌱 Aprimorando conhecimentos em: Java, HTML5, CSS3 e JavaScript
 
 
