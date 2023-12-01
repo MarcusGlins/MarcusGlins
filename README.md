@@ -1,6 +1,6 @@
 # Olá, 
 
-Meu nome é Marcus, eu sou desenvolvedor web fullstack de Bonito, Pará. Eu gosto de programar, e meu objetivo é criar sites e aplicações elegantes e eficientes que resolvam problemas reais.
+Meu nome é Marcus, eu sou desenvolvedor web fullstack de Bonito, Pará. Eu gosto de programar, e meu objetivo é criar sites e aplicações elegantes, eficientes que resolvem problemas reais.
 
 ## Tecnologias que utilizo
 <div align="center">
